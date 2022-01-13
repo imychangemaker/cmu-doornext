@@ -1,0 +1,1 @@
+from utils.generatemap import gen_map
