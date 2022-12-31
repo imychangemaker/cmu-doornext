@@ -123,9 +123,9 @@ Mohil Jain | mohilj@andrew.cmu.edu
 
 ## Couse Details
 
-As a project of course:
-Institution: Carnegie Mellon University
-Term: 2021 Fall
-Code: 95-888 Data Focused Python
+As a project of course:\
+Institution: Carnegie Mellon University\
+Term: 2021 Fall\
+Code: 95-888 Data Focused Python\
 Instructor: Prof. John K. Ostlund
 
