@@ -1,4 +1,4 @@
-# Application Creation with Data-Focused Python: DoorNext
+# Application with Data-Focused Python: DoorNext
 
 DoorNext is a one-stop platform for settlers to search for neighborhood information in a quick and convenient manner. Our vision is to help settlers to envision their future life when moving next to a new neighborhood. Relocation has always been a traumatic experience with all the uncertainties. We believe there is no better way to get informed quickly for decision making. DoorNext erases all the hassle by providing you comprehensive details of a certain neighborhood, including demographics, events, and weather. You could fully utilize our platform before, during and after your moving.
 
